@@ -14,7 +14,7 @@ The script:
    Add the following `<script>` tag to your HTML file inside of the `<head>` tag:
 
    ```html
-   <script src="https://cdn.jsdelivr.net/gh/pursuit-digital/year-auto@main/main.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/pursuit-digital/year-auto@main/main.js" defer></script>
 
 2. **Add the custom attribute to any element**  
    Add `pd-year-auto` to the HTML element where you want the year to appear:
